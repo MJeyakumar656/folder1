@@ -1,0 +1,3 @@
+Insert-> Add -> Commit ->Push
+Insert: create a new file in folder
+Add:(terminal )-> git add new file name (text1.txt)
