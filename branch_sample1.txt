@@ -1,0 +1,4 @@
+In branch, default name is main or master 
+If you check your branch enter in terminal ->git branch -a
+If you check new branch enter in main on git and create new branch
+If you change your branch main to new branch, then enter in terminal-> git checkout new branch 
