@@ -1,5 +1,5 @@
 Insert-> Add -> Commit ->Push
-Insert: create a new file in folder
+Insert: create a new file in folder ->git init (Initialize Git in your project or file)
 Add:(terminal )-> git add new file name (text1.txt)
 Commit:(terminal)->git Commit -m "created new file name"
 Push:(terminal)->git push orgin main
